@@ -22,14 +22,13 @@ Ferramentas de Desenvolvimento <br>
 Meus Contatos: <br>
 <a href="https://www.linkedin.com/in/denise-marisa-oliveira-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-0770b7257/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="mailto:denisemaoliveira@gmail.com?subject=GitHub&body=Ol%C3%A1%20Denise%2C%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20da%20plataforma%20Github"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://wa.me/5511957856870?text=Ol%C3%A1%20Denise!%0AEstou%20entrando%20em%20contato%20pela%20plataforma%20GitHub!"/><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><br><br><br>
-  
+    
   <div align="center">
   <a href="https://github.com/denisemaoliveira">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=denisemaoliveira&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemaoliveira&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
 
 
 <div align="center">
